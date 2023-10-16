@@ -74,4 +74,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem "simple_form", "~> 5.2"
+gem "simple_form", "~> 5.3"
